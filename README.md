@@ -1,8 +1,8 @@
-Rock Paper Scissors - Classic Game 🎮✊📄✂️
+**Rock Paper Scissors** - Classic Game 🎮✊📄✂️
 A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. Play against the computer and track your score!
 
 🚀 Live Demo
-🔗 Play Now (Replace with GitHub Pages or hosted link if available)
+🔗 Play Now https://anildhoundiyal.github.io/Rock-Paper-Scissors---Classic-Game-/
 
 📌 Features
 ✔️ Simple & Interactive UI – Clean design with smooth animations.
